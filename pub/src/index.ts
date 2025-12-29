@@ -8,3 +8,6 @@ export {
     integer_division,
 } from "pareto-core-internals"
 
+export const get_text_length = (text: string): number => {
+    return text.length
+}
