@@ -2,10 +2,10 @@
  * these functions coming from core-internals should be exposed for serializer development
  */
 export {
-    build_text,
-    build_list,
+    text_build,
+    list_build,
     panic as unreachable_code_path,
-    integer_division,
+    integer_divide,
     
     cc,
     au,
