@@ -1,1 +1,1 @@
-export * from "pareto-core-internals/dist/algorithm_types/serializer"
+export * from "pareto-core-internals/dist/serializer"
